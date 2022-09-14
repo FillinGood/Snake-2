@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  justify-content: center;
+  background: hsl(200, 6%, 10%);
+}
+canvas {
+  border: 1px solid black;
+  background: hsl(200, 6%, 20%);
+}
